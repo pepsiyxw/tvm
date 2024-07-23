@@ -1,0 +1,10 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+make[1]: Entering directory '/mnt/e/_AI/tvm/3rdparty/vta-hw/build/hardware/xilinx/hls/pynq_1x16_i16w16a64_15_16_19_18/vta_sim/soln/csim/build'
+   Compiling ../../../../../../../../../tests/hardware/common/test_lib.cc in debug mode
+   Compiling ../../../../../../../../../hardware/xilinx/sim/vta_test.cc in debug mode
+   Compiling ../../../../../../../../../hardware/xilinx/src/vta.cc in debug mode
+   Generating csim.exe
+make[1]: Leaving directory '/mnt/e/_AI/tvm/3rdparty/vta-hw/build/hardware/xilinx/hls/pynq_1x16_i16w16a64_15_16_19_18/vta_sim/soln/csim/build'
+ERR: [SIM 100] CSim failed with errors.
+INFO: [SIM 3] *************** CSIM finish ***************
